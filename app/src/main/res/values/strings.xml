@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Buysell</string>
+    <string name="sell_price">Sell Price</string>
+    <string name="product_name">Product Name</string>
+    <string name="buy_price">Buy Price</string>
+    <string name="add_product">Add Product</string>
+</resources>
